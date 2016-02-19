@@ -1,0 +1,55 @@
+.fondonegro {
+  background-color: black;
+  color: white;
+  height: 70px;
+  padding: 20px;
+  font-size: 15px;
+}
+.logo {
+  background-color: #BEBDBD;
+  padding: 5px;
+  text-align: center;
+  color: #717171;
+}
+.imagen {
+  background-color: #BEBDBD;
+  height: 200px;
+  margin-top: 40px;
+  width: 150px;
+}
+.letra {
+  height: 200px;
+  margin-top: 40px;
+}
+.textoimagen {
+  text-align: center;
+  font-size: 50px;
+  padding-top: 60px;
+  color: #717171;
+}
+.textocentrado {
+  padding: 5px;
+  background-color: #EAEAEA;
+  border-color: blue;
+  margin-top: 20px;
+  font-size: 10px;
+  text-align: center;
+}
+.margin {
+  margin-top: 30px;
+}
+h1 {
+  font-size: 27px;
+}
+p {
+  font-size: 12px;
+}
+.footer {
+  font-size: 10px;
+  color: #717171;
+  margin-top: 50px;
+}
+.topbar {
+  background-color: black;
+  color: white;
+}
